@@ -1,6 +1,6 @@
 {
   "name": "@jhowrf/local-storage-cache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lib for cache data on local storage",
   "main": "index.ts",
   "scripts": {
@@ -13,7 +13,8 @@
   "keywords": [
     "local",
     "storage",
-    "cache"
+    "cache",
+    "localstorage"
   ],
   "author": "jhowrf",
   "license": "MIT",
