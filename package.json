@@ -1,0 +1,27 @@
+{
+  "name": "local-storage-cache",
+  "version": "1.0.0",
+  "description": "lib for cache data on local storage",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jhon-Henkel/local-storage-cache.git"
+  },
+  "keywords": [
+    "local",
+    "storage",
+    "cache"
+  ],
+  "author": "jhowrf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jhon-Henkel/local-storage-cache/issues"
+  },
+  "homepage": "https://github.com/Jhon-Henkel/local-storage-cache#readme",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
