@@ -1,6 +1,6 @@
 {
   "name": "@jhowrf/local-storage-cache",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "lib for cache data on local storage",
   "main": "index.ts",
   "scripts": {
