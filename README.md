@@ -1,3 +1,5 @@
+![NPM Downloads](https://img.shields.io/npm/d18m/%40jhowrf%2Flocal-storage-cache)
+
 ## Localstorage Cache
 
 This is a package to use localstorage cache.
